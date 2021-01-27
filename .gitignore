@@ -1,8 +1,10 @@
 .idea/
 build/
 dist/
-ndustrialio_python.egg-info/
+setec_ndustrialio_python.egg-info/
 .DS_Store
 test.py
 *.pyc
 venv/
+.venv/
+*~

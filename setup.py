@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='ndustrialio-python',
+setup(name='setec-ndustrialio-python',
       version='0.2',
       description='API bindings and worker tools for </ndustrial.io>',
       url='http://github.com/ndustrialio/ndustrialio-python',
